@@ -7,3 +7,5 @@ I doubt that it is worthwhile to colonize Venus.
 post gitignore file: testing
 
 11:34AM -f is for force pushing. Also, Venus is yellow.
+
+11:38AM Add, then Commit, THEN PUSH
