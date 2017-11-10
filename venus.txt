@@ -5,3 +5,5 @@ Venus however supposedly destroyed all of the landed space probes due to its har
 I doubt that it is worthwhile to colonize Venus.
 
 post gitignore file: testing
+
+11:34AM -f is for force pushing. Also, Venus is yellow.
