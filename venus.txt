@@ -3,3 +3,5 @@ Venus has an atmosphere which is great for protection from asteroids and perhaps
 Venus however supposedly destroyed all of the landed space probes due to its harsh surface conditions.
 
 I doubt that it is worthwhile to colonize Venus.
+
+post gitignore file: testing
